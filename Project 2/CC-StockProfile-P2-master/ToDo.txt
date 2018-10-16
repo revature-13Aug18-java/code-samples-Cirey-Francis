@@ -1,0 +1,12 @@
+elastic beanstalk
+write some unit tests -_____-
+
+make things prettier:
+	drop down nav bar (settings and logout)
+	add a filter searchbar (for the symbols only)
+	
+	all those input validation things (highlight/border the input, send some kind of alert)
+	
+	
+	
+	
