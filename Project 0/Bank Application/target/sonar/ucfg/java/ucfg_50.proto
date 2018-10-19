@@ -1,51 +1,0 @@
-
-Ocom.revature.bankingutil.BankingConnection#getConnection()Ljava/sql/Connection;
-__unknown_file ("4*Š
-1|
-rC:\Users\thecu\Documents\Assignment Workspace\Bank Application\src\com\revature\bankingutil\BankingConnection.java	 ("†
-|
-rC:\Users\thecu\Documents\Assignment Workspace\Bank Application\src\com\revature\bankingutil\BankingConnection.java (
-""*£
-2|
-rC:\Users\thecu\Documents\Assignment Workspace\Bank Application\src\com\revature\bankingutil\BankingConnection.java (š
-|
-rC:\Users\thecu\Documents\Assignment Workspace\Bank Application\src\com\revature\bankingutil\BankingConnection.java (D%4qjava.sql.DriverManager#getConnection(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;)Ljava/sql/Connection;"
-
-url"
-
-
-username"
-
-
-password*
-1*¸
-4|
-rC:\Users\thecu\Documents\Assignment Workspace\Bank Application\src\com\revature\bankingutil\BankingConnection.java ($Ú
-|
-rC:\Users\thecu\Documents\Assignment Workspace\Bank Application\src\com\revature\bankingutil\BankingConnection.java (G%03java.io.FileInputStream#<init>(Ljava/lang/String;)V"!
-bankingcredentials.propertiesÓ
-|
-rC:\Users\thecu\Documents\Assignment Workspace\Bank Application\src\com\revature\bankingutil\BankingConnection.java (&%1Fjava.util.Properties#getProperty(Ljava/lang/String;)Ljava/lang/String;"
-url‘
-|
-rC:\Users\thecu\Documents\Assignment Workspace\Bank Application\src\com\revature\bankingutil\BankingConnection.java ('url__id"
-
-%1Ø
-|
-rC:\Users\thecu\Documents\Assignment Workspace\Bank Application\src\com\revature\bankingutil\BankingConnection.java (0%2Fjava.util.Properties#getProperty(Ljava/lang/String;)Ljava/lang/String;"
-
-username–
-|
-rC:\Users\thecu\Documents\Assignment Workspace\Bank Application\src\com\revature\bankingutil\BankingConnection.java (1username__id"
-
-%2Ø
-|
-rC:\Users\thecu\Documents\Assignment Workspace\Bank Application\src\com\revature\bankingutil\BankingConnection.java (0%3Fjava.util.Properties#getProperty(Ljava/lang/String;)Ljava/lang/String;"
-
-password–
-|
-rC:\Users\thecu\Documents\Assignment Workspace\Bank Application\src\com\revature\bankingutil\BankingConnection.java (1password__id"
-
-%3*
-2
-1

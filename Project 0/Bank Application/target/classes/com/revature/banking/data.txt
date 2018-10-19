@@ -1,4 +1,0 @@
-cg
-cirey
-password
-0

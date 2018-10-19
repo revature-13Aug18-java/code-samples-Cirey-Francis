@@ -1,23 +1,0 @@
-
-;com.revature.banking.MenuObject#askUser()Ljava/lang/String;
-__unknown_file ("1*ö
-1q
-gC:\Users\thecu\Documents\Assignment Workspace\Bank Application\src\com\revature\banking\MenuObject.java4 4(ã
-q
-gC:\Users\thecu\Documents\Assignment Workspace\Bank Application\src\com\revature\banking\MenuObject.java4 4(username__id"
-
-""◊
-q
-gC:\Users\thecu\Documents\Assignment Workspace\Bank Application\src\com\revature\banking\MenuObject.java5 5(3%03org.apache.log4j.Category#info(Ljava/lang/Object;)V")'
-%What would you like as your username?ß
-q
-gC:\Users\thecu\Documents\Assignment Workspace\Bank Application\src\com\revature\banking\MenuObject.java6 6(%1.java.util.Scanner#nextLine()Ljava/lang/String;ã
-q
-gC:\Users\thecu\Documents\Assignment Workspace\Bank Application\src\com\revature\banking\MenuObject.java6 6(username__id"
-
-%1"Å
-q
-gC:\Users\thecu\Documents\Assignment Workspace\Bank Application\src\com\revature\banking\MenuObject.java8 8(
-
-
-username
