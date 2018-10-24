@@ -1,7 +1,7 @@
 # code-samples-Cirey-Francis
 Revature Code Samples
 
-Project 0 - Bank Application 
+# Project 0 - Bank Application 
 
 Role - Solo Developer
 
@@ -9,7 +9,7 @@ Description - An application that offers an interface inside of the Java Console
 
 Technologies - Java, JDBC, Oracle SQL
 
-Project 1 - Reimbursement  Application 
+# Project 1 - Reimbursement  Application 
 
 Role - Solo Developer
 
@@ -17,7 +17,7 @@ Description - The Reimbursement Application offers users a web based interface f
 
 Technologies - Java, JDBC, Oracle SQL, Servlets, HTML (Bootstrap), CSS, Javascript, AJAX  
 
-Project 2 - C and C Stock Portfolio 
+# Project 2 - C and C Stock Portfolio 
 
 Role - Team Lead
 
@@ -25,7 +25,7 @@ Description - With the C and C Application users can log in and create their own
 
 Technologies - Spring MVC, Spring Boot, Hibernate, Angular 6, IEXTrading API, Bootstrap, Beanstalk, Amazon S3 
 
-Project 3 - RideForce
+# Project 3 - RideForce
 
 Role - Git Master 
 
